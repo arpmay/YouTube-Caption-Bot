@@ -1,5 +1,5 @@
 # YouTube-Caption-Bot
-Simple tool to find the words most used by a YouTube channel. Tool is written in Python with GUI implemented using TkInter.
+Simple tool to find the words most used by a YouTube channel. Tool is written in Python with GUI implemented using TkInter. If you're in a hurry, just download the executable included and start using. If you prefer to build yourself, follow the steps below.
 
 # Usage
 1. Clone the repository to your local system.
